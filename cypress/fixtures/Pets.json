@@ -1,0 +1,5 @@
+[
+        { "id": 9223372016900016000, "name": "Bingo", "status": "unavailable" },
+        { "id": 9223372016900016001, "name": "Charlie", "status": "available" },
+        { "id": 9223372016900016002, "name": "Max", "status": "pending" }
+]
